@@ -1,0 +1,285 @@
+#Customer Obsession#Tell me about a time when you developed client relationships.
+#Customer Obsession#Tell me about a time when you anticipated your customer’s needs.
+#Customer Obsession#Tell me about a time when you “wowed” your customers.
+#Customer Obsession#Tell me about a time you used customer feedback to drive improvement or innovation. What was the situation and what action did you take?
+#Customer Obsession#When you’re working with a large number of customers, it’s tricky to deliver excellent service to all of them. How do you prioritize the different customer needs?
+#Customer Obsession#When did you have to work backward from a customer requirement? How did you approach the situation? What were your actions? What was the end result?
+#Customer Obsession#Give me an example of when you did not meet a client’s expectations. What happened, and how did you attempt to rectify the situation?
+#Customer Obsession#Describe a difficult interaction you had with a client. What was the situation and what action did you take? What was the outcome?
+#Customer Obsession#Tell me about a time you handled a difficult customer. What did you do? How did you manage the customer? What was her/his reaction? What was the outcome?
+#Customer Obsession#Tell me about a time you put the customer first, regardless of what peers or higher management directed. What was the outcome? How did this impact day-to-day interaction with your peers and/or management?
+#Customer Obsession#Walk me through a time when you helped a customer through a difficult process and what that looked like.
+#Customer Obsession#Tell me about a time you changed your process to better align with customer needs.
+#Customer Obsession#When did you deal with an angry client? What actions did you take?
+#Customer Obsession#Most of us at one time have felt frustrated or impatient when dealing with customers. Can you tell me about a time when you felt this way and how you dealt with it?
+#Customer Obsession#When do you think it’s ok to push back or say no to an unreasonable customer request?
+#Customer Obsession#Tell me about a time you had to compromise in order to satisfy a customer.
+#Customer Obsession#Tell me about the last time you had to apologize to someone.
+#Customer Obsession#Tell me about a time when a customer came to you for something that wouldn’t actually address their need.  How did you approach the situation? What was the result?
+#Customer Obsession#Tell me about a time when you went above and beyond for a customer. Why did you do it? How did the customer respond? What was the outcome?
+#Customer Obsession#Sometimes customers make unreasonable requests. Tell me about a time when you’ve had to push back or say no to a customer request. What did you say or do in response to that request
+#Customer Obsession#Tell me about a time when you didn't meet customer expectations. What happened, and how did you deal with the situation?
+#Customer Obsession#Tell me about a time a customer wanted one thing, but you felt they needed something else.
+#Customer Obsession#When was a time when you had to balance the needs of the customer with the needs of the business?
+#Customer Obsession#To try to meet the high expectations of our customers, we sometimes promise more than we can deliver. Tell me about a time when you overcommitted yourself or your company. How did you resolve the issue?
+#Customer Obsession#In your opinion, what is the most effective way to evaluate the quality of your product or service to your internal/external customer? Give an example when you used these measures to make a decision. (Manager)
+#Customer Obsession#Give me an example of a change you implemented in your current team or organization to meet the needs of your customers. What has been the result? (Manager)
+#Ownership#Provide an example of when you personally demonstrated ownership.
+#Ownership#Tell me about a time you went above and beyond.
+#Ownership#Describe a project or idea (not necessarily your own) that was implemented primarily because of your efforts. What was your role? What was the outcome?
+#Ownership#When did you work on a project where you were the driving factor? How did you decide you were right about things you were proposing?
+#Ownership#Give me an example of a time when you didn't think you were going to meet the commitments you promised. How did you identify the risk and communicate it to stakeholders? What was the outcome?
+#Ownership#Tell me about a time you had to make a short-term sacrifice in order to achieve a longterm goal. What was the outcome?
+#Ownership#Describe a time when you had to transition a project you owned to a new owner. What steps did you take to make sure the transition went smoothly?
+#Ownership#Tell me about a time that you chose to get involved in a project that you had already transitioned to somebody else. What was the situation? Why was it important to get involved?
+#Ownership#Tell me about a time when you took on something significant outside your area of responsibility. Why was it important? What was the outcome?
+#Ownership#Tell me about a time when you had to leave a task unfinished.
+#Ownership#Tell me about a time when you had to work on a project with unclear responsibilities.
+#Ownership#Tell me about a time you missed a deadline. What happened and what did you learn?
+#Ownership#Give an example of when you saw a peer struggling and decided to step in and help.
+#Ownership#What was the situation and what actions did you take? What was the outcome?
+#Ownership#When did you see a bigger opportunity than your manager?
+#Ownership#What steps do you take to ensure projects you complete get transitioned effectively to new owners? Give an example where you chose to reengage on a project you had already transitioned to someone else. What was the situation?
+#Ownership#Tell me about a time when you took on a task that was beyond your job responsibilities.
+#Ownership#Tell me about a time when you had to work on a task with unclear responsibilities.
+#Ownership#Tell me about a time when you showed an initiative to work on a challenging project.
+#Invent and Simplify#Tell me about a time when you invented something.
+#Invent and Simplify#What improvements have you made at your current company?
+#Invent and Simplify#Tell me about a time you were able to make something simpler for customers. What drove you to implement this change?
+#Invent and Simplify#Tell me about a creative idea you had that was difficult to implement. What was the idea and why was it so hard to implement?
+#Invent and Simplify#Tell me about an out-of-the box idea you had or decision you made that had a big impact on your business.
+#Invent and Simplify#Tell me about the most innovative project you’ve done. Why did you think it was innovative?
+#Invent and Simplify#Tell me about a time you solved a problem.
+#Invent and Simplify#Describe a challenging problem or situation in which the usual approach was not going to work. Why were you unable to take the usual approach? What alternative approach did you take? Was it successful?
+#Invent and Simplify#How did you change the direction or view of a specific function or department, helping them embrace a new way of thinking? Why was a change needed?
+#Invent and Simplify#Describe a time when you found a simple solution to a complex problem.
+#Invent and Simplify#Tell me about a time when you invented something.
+#Invent and Simplify#Tell me about a time when you tried to simplify a process but failed. What would you have done differently?
+#Are Right, A Lot#Tell me about a time you made a mistake.
+#Are Right, A Lot#Tell me about an error in judgment you made in the last year or two. What was it and what was the impact of it?
+#Are Right, A Lot#Tell me about a time when you made a bad decision and the learning from the experience enabled you to make a good decision later. What did you learn that you were able to apply?
+#Are Right, A Lot#Give me an example of a significant professional failure. What did you learn from this situation?
+#Are Right, A Lot#Tell me about a time when you were wrong.
+#Are Right, A Lot#Tell the story of the last time you had to apologize to someone.
+#Are Right, A Lot#What regrets do you have?
+#Are Right, A Lot#Describe a situation where you thought you were right, but your peers or supervisor did not agree with you. How did you convince them that you were right? How did you react? What was the outcome?
+#Are Right, A Lot#Tell me about a time you disagreed with a colleague. What is the process you used to work it out?
+#Are Right, A Lot#Tell me about a time that you strongly disagreed with your manager on something you deemed to be very important to the business. What was it about and how did you handle it?
+#Are Right, A Lot#Tell me about a difficult relationship with a stakeholder.
+#Are Right, A Lot#Tell me about a time where someone openly challenged you. How did you handle this feedback?
+#Are Right, A Lot#Give me an example of when you took an unpopular stance in a meeting with peers and your leader and you were the outlier. What was it, why did you feel strongly about it, and what did you do?
+#Are Right, A Lot#When do you decide to go along with the group decision even if you disagree? Give me an example of a time you chose to acquiesce to the group even when you disagreed. Would you make the same decision now?
+#Are Right, A Lot#Tell me about a decision for which data and analysis weren’t enough to provide the right course and you had to rely on your judgment and instincts. Give me two to three examples.
+#Are Right, A Lot#Tell me about a time you made a difficult decision and how you knew it was the right solution (include: how you evaluated the options, if you received input, what data you reviewed, etc.)
+#Are Right, A Lot#Give me an example of when you had to make an important decision in the absence of good data because there just wasn’t any. What was the situation and how did you arrive at your decision? Did the decision turn out to be the correct one? Why or why not?
+#Are Right, A Lot#Tell me about a time you had to fix something but had no data or direction.
+#Are Right, A Lot#Tell me about a business model decision or key technology decision or other important strategic decision you had to make for which there was not enough data or benchmarks. In the absence of all the data, what guided your choice and how did you make the call? What was the outcome? 
+#Are Right, A Lot#Tell me about a time when you effectively used your judgment to solve a problem.
+#Are Right, A Lot#Tell me about a time when you were faced with a challenge where the best way forward or strategy to adopt was not “clear cut” (there were a number of possible solutions or the situation was ambiguous). How did you decide the best way forward?
+#Are Right, A Lot#Tell me about a time when you had to work with insufficient information or incomplete data.
+#Learn and Be Curious#Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
+#Learn and Be Curious#How do you find the time to stay inspired, acquire new knowledge, and/or innovate in your work?
+#Learn and Be Curious#How do you keep up with industry trends, what your competitors are doing, and best practices?
+#Learn and Be Curious#What have you learned that has helped you in your job?
+#Learn and Be Curious#What is the coolest thing you’ve learned on your own that has helped you better perform your job?
+#Learn and Be Curious#Tell me about a time you learned something new from your peer or your direct report at work.
+#Learn and Be Curious#Tell me about a time when you solved a problem through just superior knowledge or observation.
+#Learn and Be Curious#What is a recent book you’ve read and what did you learn from it?
+#Learn and Be Curious#Tell me about a project that required you to learn something new.
+#Learn and Be Curious#Tell me about a time you took on work outside of your comfort area and found it rewarding.
+#Learn and Be Curious#Tell me about a time you found you needed a deeper level of subject matter expertise to do your job well.
+#Learn and Be Curious#Tell me about a time you didn’t know what to do next or how to solve a challenging problem.
+#Learn and Be Curious#Give me an example of a time when you challenged the notion that that something had to be done a certain way because it had always been done that way.
+#Learn and Be Curious#What are you working on to improve your overall effectiveness at work?
+#Learn and Be Curious#When we enter a new role or problem space, it is common to come in and see things with a fresh perspective. Tell me about a time when you realized that you might have lost that fresh perspective. What ended up happening?
+#Learn and Be Curious#What is an example of how you’ve connected the dots to come up with a counterintuitive solution?
+#Learn and Be Curious#Tell me about an important lesson you learned over the past year.
+#Learn and Be Curious#Tell me about a situation or experience you went through that changed your way of thinking.
+#Learn and Be Curious#Tell me about a time when you made a smarter decision with the help of your curiosity.
+#Hire and Develop the Best#Tell me about a time when you made a bad hire. When did you figure it out, and what did you do?
+#Hire and Develop the Best#Tell me about one of the best hires of your career.
+#Hire and Develop the Best#Tell me about a time when you were in the hiring process and you found a borderline candidate. How did you figure it out, what did you do?
+#Hire and Develop the Best#Describe a time you constructed a team. What factors did you consider? Did you factor in diversity? How did you balance work requirements, team skill composition, and team stretch opportunities? How did you allocate work? How did you ensure team members were able to work effectively together? Would you have done anything differently?
+#Hire and Develop the Best#Tell me about a difficult performance review you gave.
+#Hire and Develop the Best#Tell me about a time when you handled a subordinate whose work was not up to expectations.
+#Hire and Develop the Best#Tell me about a time when you had to take disciplinary action with someone you supervised.
+#Hire and Develop the Best#Give an example of how you handle the need for constructive criticism with a subordinate or peer.
+#Hire and Develop the Best#Tell me about a specific development plan that you created and carried out with one or more of your employees. What was the specific situation? What were the components of the development plan? What was the outcome?
+#Hire and Develop the Best#Tell me about a time when you actively coached or mentored somebody. What were your key takeaways? What was the outcome?
+#Hire and Develop the Best#Tell me about a time when you mentored someone.
+#Hire and Develop the Best#Tell me about a time when a person under your leadership struggled to get promoted and you helped facilitate their success.
+#Hire and Develop the Best#Tell me about the most challenging talent review and promotion process that you conducted for your team. What made it challenging? What factors did you consider in your talent review? What factors did you consider in the promotion process? Did you incorporate a tool to counter unconscious bias? How do you manage perceptions of unfair treatment?
+#Hire and Develop the Best#There are times when people need extra help. Give an example of when you were able to provide that support to a person with whom you worked.
+#Hire and Develop the Best#What have you done to improve the skills of your subordinates?
+#Hire and Develop the Best#Tell me about a time when you helped a remote team member develop their career.
+#Hire and Develop the Best#Describe a time when you had to decide whether or not to award or ask for additional resources. What criteria did you use for making the call?
+#Hire and Develop the Best#Give an example of a time when you challenged your team to come up with a more efficient solution or process. What drove the request? How did you help? What were some of your biggest challenges? What were the results?
+#Hire and Develop the Best#Tell me about a time when you encouraged a team member or organization to take a big risk. How did you balance the risk against existing business goals? What was the outcome? What did you learn from this situation?
+#Hire and Develop the Best#Tell me about a time when you established a vision for a team when there wasn't one.
+#Hire and Develop the Best#Tell me about a time when you were able to remove a serious roadblock preventing your team from making progress.
+#Hire and Develop the Best#Tell me about a time when you uncovered a significant problem in your team. What was it and how did you communicate it to your manager and other stakeholders?
+#Hire and Develop the Best#Tell me about a time when you felt your team was not moving to action quickly enough. What was the situation? What did you do? What was the outcome? Would you have done anything differently?
+#Hire and Develop the Best#Tell me about a time when you enabled your team/a team member to implement a significant change or improvement. What problem were you trying to solve? How did you measure success? What was the end result/impact?
+#Hire and Develop the Best#Insist on the Highest Standards
+#Hire and Develop the Best#Tell me a time your customer was demanding high standards and you couldn’t give them what they asked for.
+#Hire and Develop the Best#Tell me about a time when you’ve been unsatisfied with the status quo. What did you do to change it? Were you successful?
+#Hire and Develop the Best#Tell me about a time you wouldn’t compromise on achieving a great outcome when others felt something was already good enough. What was the situation?
+#Hire and Develop the Best#What measures have you personally put in place to ensure performance improvement targets and standards are achieved?
+#Hire and Develop the Best#Describe the most significant, continuous improvement project that you’ve led. What was the catalyst for this change and how did you go about it?
+#Hire and Develop the Best#Give me an example of a goal you’ve had where you wish you had done better. What was the goal and how could you have improved on it?
+#Hire and Develop the Best#Tell me about a time when you worked to improve the quality of a product / service / solution that was already getting good customer feedback? Why did you think it needed more improvement?
+#Hire and Develop the Best#Give an example where you refused to compromise your standards around quality/customer service, etc. Why did you feel so strongly about the situation? What were the consequences? The result?
+#Hire and Develop the Best#Describe a time where you were working on a project in a team and were unhappy with the output/performance/effort put in by a teammate. What did you do about it? What was the outcome?
+#Hire and Develop the Best#Tell me about a piece of direct feedback you recently gave to a colleague. How did he or she respond? How do you like to receive feedback from coworkers or managers?
+#Hire and Develop the Best#Tell me about a time when you couldn’t meet your own expectations on a project/did not meet your goal.
+#Hire and Develop the Best#Tell me about a time you weren’t happy with your own progress on a project.
+#Hire and Develop the Best#You performed an analysis, but your client thinks that the result is not right. What will you do in this situation?
+#Hire and Develop the Best#Tell me about a time you observed low-quality output from a co-worker, and what you did about it.
+#Hire and Develop the Best#Tell me about a time when you faced an ethical dilemma. What did you do? What was the outcome?
+#Hire and Develop the Best#Give me an example of when you could have stopped working but persisted.
+#Hire and Develop the Best#What was your toughest decision in the last 6 months?
+#Hire and Develop the Best#Describe a long-term project you managed. How did you keep everything moving along in a timely manner?
+#Hire and Develop the Best#Tell me about a time when you were dissatisfied with the quality of a project at work. What did you do to improve it?
+#Hire and Develop the Best#Tell me about a time when you motivated others to go above and beyond.
+#Hire and Develop the Best#Describe a situation when you couldn't meet your standards and expectations on a task.
+#Think Big#Tell me about a time when you took a calculated risk in order to achieve a big professional goal. What were the tradeoffs? What was the outcome?
+#Think Big#Tell me about a time you took a big risk – what was the risk, how did you decide to do it and what was the outcome?
+#Think Big#Tell me about a time you took a big risk and it failed. What did you learn? What would you do differently?
+#Think Big#Tell me about your proudest professional achievement.
+#Think Big#Talk about a time when you went above and beyond expectations.
+#Think Big#Tell me about a time when you went way beyond the scope of the project and delivered.
+#Think Big#Give me an example of a radical approach to a big problem you proposed. What was the problem and why did you feel it required a completely different way of thinking about it? Was your approach successful? What would you do differently?
+#Think Big#How do you drive adoption for your vision/ideas? How do you know how well your idea or vision has been adopted by other teams or partners? Give a specific example highlighting one of your ideas.
+#Think Big#Tell me about time you were working on an initiative or goal and saw an opportunity to do something much bigger than the initial focus.
+#Think Big#Tell me about a time you looked at a key process that was working well and questioned whether it was still the right one. What assumptions were you questioning and why? Did you end up making a change to the process?
+#Think Big#Tell me about a time when you had to make a bold and challenging decision.
+#Think Big#Tell me about a time when your vision led to a great impact.
+#Bias for Action#Give me an example of a calculated risk that you have taken where speed was critical.
+#Bias for Action#What was the situation and how did you handle it? What steps did you take to mitigate the risk? What was the outcome?
+#Bias for Action#Tell me about a time you had to make a decision with incomplete information. How did you make it and what was the outcome?
+#Bias for Action#Describe a time you had to make an important decision on the spot to close a sale.
+#Bias for Action#Tell me about a time you had to make a quick judgement call without time for deep analysis.
+#Bias for Action#Describe a situation where you made an important business decision without consulting your manager. What was the situation and how did it turn out?
+#Bias for Action#Tell me about a time when you had to analyze facts quickly, define key issues, and respond immediately to a situation. What was the outcome?
+#Bias for Action#Tell me about a time when you have worked against tight deadlines and didn't have the time to consider all options before making a decision. How much time did you have? What approach did you take?
+#Bias for Action#Give an example of when you had to make an important decision and had to decide between moving forward or gathering more information. What did you do? What information is necessary for you to have before acting?
+#Bias for Action#Describe a time when you saw some problem and took the initiative to correct it rather than waiting for someone else to do it.
+#Bias for Action#Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?
+#Bias for Action#Tell me about a time where you felt your team was not moving to action quickly enough.
+#Bias for Action#Tell me about a time when you were able to remove a serious roadblock/barrier preventing your team from making progress? How were you able to remove the barrier? What did you do? (Manager) What was the outcome? (Manager)
+#Bias for Action#Describe a situation when you took the initiative to correct a problem or a mistake rather than waiting for someone else to do it.
+#Bias for Action#Tell me about a time when you required some information from somebody else, but they weren't responsive. What did you do?
+#Frugality#Accomplish more with less. Constraints breed resourcefulness, self-sufficiency and invention. There are no extra points for growing headcount, budget size or fixed expense.
+#Frugality#Tell me about a time where you thought of a new way to save money or eliminate waste within your operation.
+#Frugality#Describe a time when you had to manage a budget (time/money/resources/etc.). Were you able to get more out of less?
+#Frugality#Tell me about a time when you had to work with limited time or resources.
+#Frugality#Describe a time when you improved a process with a limited budget.
+#Frugality#Tell me about a time you had to make tradeoffs between quality and cost. How did you weigh the options? What was the result?
+#Frugality#Tell me about a time you have created organizational or customer value through either increased revenue stream or lowering the cost structure.
+#Frugality#Give me a time you requested additional funding/budget to complete a project. Why was it needed? Did you try to figure out another approach? Did you get the additional resources? Why or why not?
+#Frugality#Describe a time when you had to rely on yourself to complete a task.
+#Frugality#Tell me about a time when you had to be frugal.
+#Frugality#Tell me about a time when you had to rely on yourself to complete a project.
+#Earn Trust#Tell me about a time you had to earn trust quickly.
+#Earn Trust#Describe a time when you significantly contributed to improving morale and productivity on your team. What were the underlying problems and their causes? How did you prevent them from negatively impacting the team in the future?
+#Earn Trust#Give an example of a time where you were not able to meet a commitment to a team member. What was the commitment and what prevented you from meeting it? What was the outcome and what did you learn from it?
+#Earn Trust#Tell me about a piece of direct feedback you recently gave to a colleague. How did he or she respond?
+#Earn Trust#How do you like to receive feedback from coworkers or managers?
+#Earn Trust#Tell me about a time you had to communicate a big change in direction for which you anticipated people would have a lot of concerns. How did you handle questions and/or resistance? Were you able to get people comfortable with the change?
+#Earn Trust#Tell me about a time when someone (peer, teammate, supervisor) criticized you about a piece of work/analysis that you delivered. How did you react? What was the outcome?
+#Earn Trust#How do you convince someone who is resistant to what you’re trying to do?
+#Earn Trust#Tell me about a time you uncovered a problem on your team.
+#Earn Trust#What would you do if you found out that your closest friend at work was stealing?
+#Earn Trust#Do you collaborate well?
+#Earn Trust#How do you earn trust from a team that you inherited?
+#Earn Trust#When did you negotiate with others in your organization to reach an agreement?
+#Earn Trust#Describe a time when you had to speak up in a difficult or uncomfortable environment.
+#Earn Trust#What would you do to gain the trust of your team?
+#Earn Trust#Tell me about a time when you had to tell a harsh truth to someone.
+#Dive Deep#Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them. Give me an example of when you used data to make a decision/solve a problem.
+#Dive Deep#Tell me about an important analysis you did.
+#Dive Deep#Tell me a time you gave insights beyond the data.
+#Dive Deep#Give me a situation in which it took you asking why five times to get to the root cause.
+#Dive Deep#Have you ever leveraged data to develop strategy?
+#Dive Deep#Tell me about a time you were trying to understand a problem on your team and you had to go down several layers to figure it out. Who did you talk with and what info proved most valuable? How did you use that info to help solve the problem?
+#Dive Deep#Tell me about a problem you had to solve that required in-depth thought and analysis.
+#Dive Deep#How did you know you were focusing on the right things?
+#Dive Deep#When your direct reports are presenting a plan or issue to you, how do you know if the underlying assumptions are the correct ones? What actions do you take to validate assumptions or data?
+#Dive Deep#Walk me through a big problem in your organization that you helped to solve. How did you become aware of it? What info did you gather, what was missing, and how did you fill the gaps? Did you do a postmortem analysis and what did you learn?
+#Dive Deep#Can you tell me about a specific metric you’ve used to identify a need for change in your department? Did you create the metric or was it readily available? How did this and other info influence the change?
+#Dive Deep#When did you dig into a specific metric or KPI?
+#Dive Deep#Tell me about the most complicated problem you've had to deal with.
+#Dive Deep#Give me an example of when you utilized in-depth data to develop a solution.
+#Dive Deep#Tell me about something that you have learned in your role.
+#Have Backbone; Disagree and Commit#Tell me about a time when you did not accept the status quo.
+#Have Backbone; Disagree and Commit#Tell me about an unpopular stance in a meeting and you were the outlier. What was it, why did you feel strongly about it, and what did you do?
+#Have Backbone; Disagree and Commit#Tell me about a time when you had to step up and disagree with a team members approach.
+#Have Backbone; Disagree and Commit#If your direct manager was instructing you to do something you disagreed with, how would you handle it?
+#Have Backbone; Disagree and Commit#Tell me about a time you had a disagreement with a manager.
+#Have Backbone; Disagree and Commit#Have you ever had a disagreement with your project manager?
+#Have Backbone; Disagree and Commit#Tell me about a time you had a disagreement with a colleague.
+#Have Backbone; Disagree and Commit#How would you handle it if your teammates wouldn’t cooperate with you?
+#Have Backbone; Disagree and Commit#When do you decide to go along with the group decision even if you disagree? Give me an example of a time you chose to agree with the group even when you disagreed. Would you make the same decision now?
+#Have Backbone; Disagree and Commit#Tell me about a time where you felt strongly about something but ultimately lost the argument. How hard did you press the issue? What was your approach after you lost the argument?
+#Have Backbone; Disagree and Commit#Give me an example of a time the business gained something because you persisted for a length of time. Why were you so determined? How did it turn out?
+#Have Backbone; Disagree and Commit#Describe a time when you disagreed with the approach of a team member. What did you do?
+#Have Backbone; Disagree and Commit#Give me an example of something you believe in that nobody else does.
+#Have Backbone; Disagree and Commit#Tell me about an unpopular decision of yours.
+#Deliver Results#Describe a time when you had to face a particularly challenging situation while working on a project and what you did to overcome it. (Note: The challenge could be with respect to timeline, scope, people, etc. or a combination thereof.)
+#Deliver Results#How you check your progress against your goals?
+#Deliver Results#Do you set and communicate smart team goals, expectations, and priorities? Do you help employees stay focused/help them remove barriers/roadblocks towards meeting team goals?
+#Deliver Results#Give me an example of a time you struggled with something and then turned it around.
+#Deliver Results#Tell me about a time where you not only met the goal but considerably exceeded expectations. How were you able to do it?
+#Deliver Results#What’s the most complicated problem you’ve ever worked on?
+#Deliver Results#Have you ever worked on something really hard and then failed?
+#Deliver Results#Tell me about a technical problem you couldn’t solve.
+#Deliver Results#Describe the most challenging situation in your life and how you handled it.
+#Deliver Results#Give an example of a time when you had to handle a variety of assignments. What was the outcome?
+#Deliver Results#Tell me about a time when your team gave up on something, but you pushed them to deliver results.
+#Strive to be Earth's Best Employer#What routines have you established in your workplace to improve safety?
+#Strive to be Earth's Best Employer#Describe a time you constructed a team. What factors did you consider? Did you factor in diversity? How did you balance work requirements, team skill composition, and team stretch opportunities? How did you allocate work? How did you ensure team members were able to work effectively together?
+#Strive to be Earth's Best Employer#What is the composition of your current team, and how is your team organized?
+#Strive to be Earth's Best Employer#How do you deal with managing at team of different backgrounds, levels, and skills?
+#Strive to be Earth's Best Employer#How do you tell the difference between “right” and “wrong” as it applies to your job?
+#Strive to be Earth's Best Employer#What does it mean to you to be a “just” manager?
+#Strive to be Earth's Best Employer#How have you made your employees excited about coming to work?
+#Strive to be Earth's Best Employer#Tell me about a time when you made the wrong assumptions about a direct report or a peer. How did you unearth the wrong assumption? How did you correct it? How did you prevent it from happening again?
+#Strive to be Earth's Best Employer#Tell me how you help your team members develop their careers. Can you give me two to three examples of a specific person in whom you invested and how you helped them develop their careers, including one who wasn’t being successful but in whom you saw potential and chose to invest?
+#Strive to be Earth's Best Employer#Give me an example of a time you provided feedback to develop and leverage the strengths of someone on your team. Were you able to positively impact that person’s performance? What were your most effective methods?
+#Strive to be Earth's Best Employer#How do you manage your top performers differently?
+#Strive to be Earth's Best Employer#Give me an example of someone who was promoted one or two levels up in the organization, not just because they were a star who would naturally rise, but due to your coaching efforts.
+#Strive to be Earth's Best Employer#How have you been successful at empowering either a person or a group to accomplish a task.
+#Strive to be Earth's Best Employer#Tell me about a time when you were able to remove a serious roadblock preventing your team from making progress.
+#Strive to be Earth's Best Employer#How do you deal with managing at team of different backgrounds, levels, and skills?
+#Strive to be Earth's Best Employer#How do you tell the difference between “right” and “wrong” as it applies to your job? What does it mean to you to be a “just” manager?
+#Strive to be Earth's Best Employer#How have you made your employees excited about coming to work?
+#Strive to be Earth's Best Employer#Tell me about a time when you made the wrong assumptions about a direct report or a peer. How did you unearth the wrong assumption? How did you correct it? How did you prevent it from happening again?
+#Strive to be Earth's Best Employer#Tell me how you help your team members develop their careers. Can you give me two to three examples of a specific person in whom you invested and how you helped them develop their careers, including one who wasn’t being successful but in whom you saw potential and chose to invest?
+#Strive to be Earth's Best Employer#Give me an example of a time you provided feedback to develop and leverage the strengths of someone on your team. Were you able to positively impact that person’s performance? What were your most effective methods?
+#Strive to be Earth's Best Employer#How do you manage your top performers differently?
+#Strive to be Earth's Best Employer#Give me an example of someone who was promoted one or two levels up in the organization, not just because they were a star who would naturally rise, but due to your coaching efforts.
+#Strive to be Earth's Best Employer#How have you been successful at empowering either a person or a group to accomplish a task.
+#Strive to be Earth's Best Employer#Tell me about a time when you were able to remove a serious roadblock preventing your team from making progress.
+#Success and Scale Bring Broad Responsibility#Tell me about a time you had to evaluate a potential strategic partnership. What approach did you take? Did you perform your evaluation using any particular framework?
+#Success and Scale Bring Broad Responsibility#How have you developed and maintained a partner relationship?
+#Success and Scale Bring Broad Responsibility#When did you have a difficult situation with a partner? What was the problem and how did you resolve it?
+#Success and Scale Bring Broad Responsibility#When did you have to say no to a partner? How did you handle it?
+#Success and Scale Bring Broad Responsibility#Have you ever lost a partner? What was the situation?
+#Success and Scale Bring Broad Responsibility#When have you gone out of your way to help a partner?
+#Success and Scale Bring Broad Responsibility#When have you done something to improve the process for your partner ?
+#Success and Scale Bring Broad Responsibility#Tell me about a time you worked with a partner to achieve scale that would have otherwise been impossible.
+#Success and Scale Bring Broad Responsibility#About the world
+#Success and Scale Bring Broad Responsibility#As you conduct internal and external business activities, how do you promote and maintain social, ethical, and organizational norms?
+#Success and Scale Bring Broad Responsibility#Tell me about how you think about your work impacting the world.
+#Success and Scale Bring Broad Responsibility#Tell me about a time where you failed to anticipate the secondary effects of a project you worked on. How did you prevent this from happening in future projects?
+#Success and Scale Bring Broad Responsibility#Tell me about a time you had to evaluate a potential strategic partnership. What approach did you take? Did you perform your evaluation using any particular framework?
+#Success and Scale Bring Broad Responsibility#How have you developed and maintained a partner relationship?
+#Success and Scale Bring Broad Responsibility#When did you have a difficult situation with a partner? What was the problem and how did you resolve it?
+#Success and Scale Bring Broad Responsibility#When did you have to say no to a partner? How did you handle it?
+#Success and Scale Bring Broad Responsibility#Have you ever lost a partner? What was the situation?
+#Success and Scale Bring Broad Responsibility#When have you gone out of your way to help a partner?
+#Success and Scale Bring Broad Responsibility#When have you done something to improve the process for your partner ?
+#Success and Scale Bring Broad Responsibility#Tell me about a time you worked with a partner to achieve scale that would have otherwise been impossible.
+#Success and Scale Bring Broad Responsibility#As you conduct internal and external business activities, how do you promote and maintain social, ethical, and organizational norms?
+#Success and Scale Bring Broad Responsibility#Tell me about how you think about your work impacting the world.
+#Success and Scale Bring Broad Responsibility#Tell me about a time where you failed to anticipate the secondary effects of a project you worked on. How did you prevent this from happening in future projects?

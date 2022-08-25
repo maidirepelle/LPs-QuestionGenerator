@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>LPs Questions Generator</title>
+    <style>
+        body {
+            font-family: 'Calibri', 'Courier New', monospace;
+            font-size: 40pt;
+            line-height: 1.2em;
+        }
+        #content {
+            width: 800px;
+            text-align: left;
+            margin: 0.5em auto;
+        }
+
+        .question {
+            color: rgb(255, 153, 0)
+        }
+
+        .principle {
+            font-size: .6em;
+            color: rgb(73, 72, 69)
+            line-height: 1em;
+        }
+
+        .permalink {
+            font-size: .3em;
+            color: rgb(255, 153, 0)
+            line-height: 1em;
+        }
+        .permalink a {
+            text-decoration: none;
+            color: inherit;
+        }
+        .permalink a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div id="content">
+        <p class="question">
+            {% raw question %}
+        </p>
+        <p class="principle">
+            {% raw leadership_principle %}
+        </p>
+        <p class="permalink">
+            [<a href="/{{ question_hash }}">permalink</a>]
+        </p>
+    </div>
+</body>
+</html>
