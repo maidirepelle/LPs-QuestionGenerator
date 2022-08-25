@@ -14,7 +14,7 @@ Format must be
 Dummy Example: 
 `#Ownership#Tell me about a time when you demostrate ownership.`
 
-## Disclaimer
+# Disclaimer
 **There is NO ufficial Amazon involvement** in this project.
 All the questions are gathered from public internet websites and simply aggregated and, sometimes, rephrased. For this reason, consider your recruiter and generally the ufficial Amazon channels as your north-star for interview preparation.
 
