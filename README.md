@@ -1,5 +1,5 @@
 # About LPQG (Leadership Principles Questions Generator)
-*LPQG* is a small Tornado application that presents you random and potential Amazon questions.
+*LPQG* is a small Tornado application that presents you random and potential Amazon questions to simplify the interview preparation. This is the tool I'd liked to use when testing myself and preparing for my onsite interview (AKA *Loop*).
 
 Thanks for inspiration and much part of the original [code](https://github.com/ngerakines/commitment) to the [WhatTheCommit project](http://whatthecommit.com/).
 
@@ -13,6 +13,10 @@ Format must be
 
 Dummy Example: 
 `#Ownership#Tell me about a time when you demostrate ownership.`
+
+## Disclaimer
+**There is NO ufficial Amazon involvement** in this project.
+All the questions are gathered from public internet websites and simply aggregated and, sometimes, rephrased. For this reason, consider your recruiter and generally the ufficial Amazon channels as your north-star for interview preparation.
 
 # License
 
