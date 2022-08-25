@@ -22,8 +22,8 @@
 #Customer Obsession#Tell me about a time a customer wanted one thing, but you felt they needed something else.
 #Customer Obsession#When was a time when you had to balance the needs of the customer with the needs of the business?
 #Customer Obsession#To try to meet the high expectations of our customers, we sometimes promise more than we can deliver. Tell me about a time when you overcommitted yourself or your company. How did you resolve the issue?
-#Customer Obsession#In your opinion, what is the most effective way to evaluate the quality of your product or service to your internal/external customer? Give an example when you used these measures to make a decision. (Manager)
-#Customer Obsession#Give me an example of a change you implemented in your current team or organization to meet the needs of your customers. What has been the result? (Manager)
+#Customer Obsession#In your opinion, what is the most effective way to evaluate the quality of your product or service to your internal/external customer? Give an example when you used these measures to make a decision.
+#Customer Obsession#Give me an example of a change you implemented in your current team or organization to meet the needs of your customers. What has been the result?
 #Ownership#Provide an example of when you personally demonstrated ownership.
 #Ownership#Tell me about a time you went above and beyond.
 #Ownership#Describe a project or idea (not necessarily your own) that was implemented primarily because of your efforts. What was your role? What was the outcome?
@@ -165,7 +165,7 @@
 #Bias for Action#Describe a time when you saw some problem and took the initiative to correct it rather than waiting for someone else to do it.
 #Bias for Action#Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?
 #Bias for Action#Tell me about a time where you felt your team was not moving to action quickly enough.
-#Bias for Action#Tell me about a time when you were able to remove a serious roadblock/barrier preventing your team from making progress? How were you able to remove the barrier? What did you do? (Manager) What was the outcome? (Manager)
+#Bias for Action#Tell me about a time when you were able to remove a serious roadblock/barrier preventing your team from making progress? How were you able to remove the barrier? What did you do? What was the outcome?
 #Bias for Action#Describe a situation when you took the initiative to correct a problem or a mistake rather than waiting for someone else to do it.
 #Bias for Action#Tell me about a time when you required some information from somebody else, but they weren't responsive. What did you do?
 #Frugality#Accomplish more with less. Constraints breed resourcefulness, self-sufficiency and invention. There are no extra points for growing headcount, budget size or fixed expense.
