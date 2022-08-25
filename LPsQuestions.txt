@@ -120,28 +120,27 @@
 #Hire and Develop the Best#Tell me about a time when you uncovered a significant problem in your team. What was it and how did you communicate it to your manager and other stakeholders?
 #Hire and Develop the Best#Tell me about a time when you felt your team was not moving to action quickly enough. What was the situation? What did you do? What was the outcome? Would you have done anything differently?
 #Hire and Develop the Best#Tell me about a time when you enabled your team/a team member to implement a significant change or improvement. What problem were you trying to solve? How did you measure success? What was the end result/impact?
-#Hire and Develop the Best#Insist on the Highest Standards
-#Hire and Develop the Best#Tell me a time your customer was demanding high standards and you couldn’t give them what they asked for.
-#Hire and Develop the Best#Tell me about a time when you’ve been unsatisfied with the status quo. What did you do to change it? Were you successful?
-#Hire and Develop the Best#Tell me about a time you wouldn’t compromise on achieving a great outcome when others felt something was already good enough. What was the situation?
-#Hire and Develop the Best#What measures have you personally put in place to ensure performance improvement targets and standards are achieved?
-#Hire and Develop the Best#Describe the most significant, continuous improvement project that you’ve led. What was the catalyst for this change and how did you go about it?
-#Hire and Develop the Best#Give me an example of a goal you’ve had where you wish you had done better. What was the goal and how could you have improved on it?
-#Hire and Develop the Best#Tell me about a time when you worked to improve the quality of a product / service / solution that was already getting good customer feedback? Why did you think it needed more improvement?
-#Hire and Develop the Best#Give an example where you refused to compromise your standards around quality/customer service, etc. Why did you feel so strongly about the situation? What were the consequences? The result?
-#Hire and Develop the Best#Describe a time where you were working on a project in a team and were unhappy with the output/performance/effort put in by a teammate. What did you do about it? What was the outcome?
-#Hire and Develop the Best#Tell me about a piece of direct feedback you recently gave to a colleague. How did he or she respond? How do you like to receive feedback from coworkers or managers?
-#Hire and Develop the Best#Tell me about a time when you couldn’t meet your own expectations on a project/did not meet your goal.
-#Hire and Develop the Best#Tell me about a time you weren’t happy with your own progress on a project.
-#Hire and Develop the Best#You performed an analysis, but your client thinks that the result is not right. What will you do in this situation?
-#Hire and Develop the Best#Tell me about a time you observed low-quality output from a co-worker, and what you did about it.
-#Hire and Develop the Best#Tell me about a time when you faced an ethical dilemma. What did you do? What was the outcome?
-#Hire and Develop the Best#Give me an example of when you could have stopped working but persisted.
-#Hire and Develop the Best#What was your toughest decision in the last 6 months?
-#Hire and Develop the Best#Describe a long-term project you managed. How did you keep everything moving along in a timely manner?
-#Hire and Develop the Best#Tell me about a time when you were dissatisfied with the quality of a project at work. What did you do to improve it?
-#Hire and Develop the Best#Tell me about a time when you motivated others to go above and beyond.
-#Hire and Develop the Best#Describe a situation when you couldn't meet your standards and expectations on a task.
+#Insist on the Highest Standards#Tell me a time your customer was demanding high standards and you couldn’t give them what they asked for.
+#Insist on the Highest Standards#Tell me about a time when you’ve been unsatisfied with the status quo. What did you do to change it? Were you successful?
+#Insist on the Highest Standards#Tell me about a time you wouldn’t compromise on achieving a great outcome when others felt something was already good enough. What was the situation?
+#Insist on the Highest Standards#What measures have you personally put in place to ensure performance improvement targets and standards are achieved?
+#Insist on the Highest Standards#Describe the most significant, continuous improvement project that you’ve led. What was the catalyst for this change and how did you go about it?
+#Insist on the Highest Standards#Give me an example of a goal you’ve had where you wish you had done better. What was the goal and how could you have improved on it?
+#Insist on the Highest Standards#Tell me about a time when you worked to improve the quality of a product / service / solution that was already getting good customer feedback? Why did you think it needed more improvement?
+#Insist on the Highest Standards#Give an example where you refused to compromise your standards around quality/customer service, etc. Why did you feel so strongly about the situation? What were the consequences? The result?
+#Insist on the Highest Standards#Describe a time where you were working on a project in a team and were unhappy with the output/performance/effort put in by a teammate. What did you do about it? What was the outcome?
+#Insist on the Highest Standards#Tell me about a piece of direct feedback you recently gave to a colleague. How did he or she respond? How do you like to receive feedback from coworkers or managers?
+#Insist on the Highest Standards#Tell me about a time when you couldn’t meet your own expectations on a project/did not meet your goal.
+#Insist on the Highest Standards#Tell me about a time you weren’t happy with your own progress on a project.
+#Insist on the Highest Standards#You performed an analysis, but your client thinks that the result is not right. What will you do in this situation?
+#Insist on the Highest Standards#Tell me about a time you observed low-quality output from a co-worker, and what you did about it.
+#Insist on the Highest Standards#Tell me about a time when you faced an ethical dilemma. What did you do? What was the outcome?
+#Insist on the Highest Standards#Give me an example of when you could have stopped working but persisted.
+#Insist on the Highest Standards#What was your toughest decision in the last 6 months?
+#Insist on the Highest Standards#Describe a long-term project you managed. How did you keep everything moving along in a timely manner?
+#Insist on the Highest Standards#Tell me about a time when you were dissatisfied with the quality of a project at work. What did you do to improve it?
+#Insist on the Highest Standards#Tell me about a time when you motivated others to go above and beyond.
+#Insist on the Highest Standards#Describe a situation when you couldn't meet your standards and expectations on a task.
 #Think Big#Tell me about a time when you took a calculated risk in order to achieve a big professional goal. What were the tradeoffs? What was the outcome?
 #Think Big#Tell me about a time you took a big risk – what was the risk, how did you decide to do it and what was the outcome?
 #Think Big#Tell me about a time you took a big risk and it failed. What did you learn? What would you do differently?
@@ -268,7 +267,6 @@
 #Success and Scale Bring Broad Responsibility#When have you gone out of your way to help a partner?
 #Success and Scale Bring Broad Responsibility#When have you done something to improve the process for your partner ?
 #Success and Scale Bring Broad Responsibility#Tell me about a time you worked with a partner to achieve scale that would have otherwise been impossible.
-#Success and Scale Bring Broad Responsibility#About the world
 #Success and Scale Bring Broad Responsibility#As you conduct internal and external business activities, how do you promote and maintain social, ethical, and organizational norms?
 #Success and Scale Bring Broad Responsibility#Tell me about how you think about your work impacting the world.
 #Success and Scale Bring Broad Responsibility#Tell me about a time where you failed to anticipate the secondary effects of a project you worked on. How did you prevent this from happening in future projects?
