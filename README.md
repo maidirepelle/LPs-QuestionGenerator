@@ -1,5 +1,5 @@
 # About LPQG (Leadership Principles Questions Generator)
-LPQG is a small Tornado application that presents you random and potential Amazon questions.
+*LPQG* is a small Tornado application that presents you random and potential Amazon questions.
 
 Thanks for inspiration and much part of the original [code](https://github.com/ngerakines/commitment) to the [WhatTheCommit project](http://whatthecommit.com/).
 
