@@ -13,12 +13,11 @@ import tornado.web
 from tornado.escape import xhtml_unescape
 from tornado.options import define, options
 
-define("port", default=5000, help="run on the given port", type=int)
+define("port", default=5000, type=int)
 
 questions_file = os.path.join(os.path.dirname(__file__), 'LPsQuestions.txt')
 questions: Dict[str, str] = {}
 
-# Create a hash table of all commit questions
 with open(questions_file, 'r', encoding='utf-8') as questions_input:
     for line in questions_input.readlines():
         questions[md5(line.encode('utf-8')).hexdigest()] = line
