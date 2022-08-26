@@ -11,6 +11,9 @@ Feel free to do a PR with your suggestions.
 Format must be
 `#$LeadershipPrinciple#Question`
 
+Dummy Example: 
+`#Ownership#Tell me about a time when you demostrate ownership.`
+
 # Wanna contribute to the project?
 Hell yeah I need your skills. I'm no developer (you don't say?) and I think this project could be improved with new features (filter LPs not related your job description?)
 
