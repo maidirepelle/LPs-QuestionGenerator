@@ -11,12 +11,14 @@ Feel free to do a PR with your suggestions.
 Format must be
 `#$LeadershipPrinciple#Question`
 
-Dummy Example: 
-`#Ownership#Tell me about a time when you demostrate ownership.`
+# Wanna contribute to the project?
+Hell yeah I need your skills. I'm no developer (you don't say?) and I think this project could be improved with new features (filter LPs not related your job description?)
 
 # Disclaimer
-**There is NO ufficial Amazon involvement** in this project.
-All the questions are gathered from public internet websites and simply aggregated and, sometimes, rephrased. For this reason, consider your recruiter and generally the ufficial Amazon channels as your north-star for interview preparation.
+Clearly, **there is NO ufficial Amazon involvement** in this project.
+LPs questions have been gathered personally from public internet websites/reddit threads, aggregated and sometimes, rephrased.
+Consider your recruiter and generally the ufficial Amazon channels as your north-star for interview preparation.
+Drop me a [mail](mailto:github@pellegrino.dev) if this helped you even a little reaching your goal!
 
 # License
 
