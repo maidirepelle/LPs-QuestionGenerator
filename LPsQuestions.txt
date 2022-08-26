@@ -77,7 +77,6 @@
 #Are Right, A Lot#Tell me about a time when you effectively used your judgment to solve a problem.
 #Are Right, A Lot#Tell me about a time when you were faced with a challenge where the best way forward or strategy to adopt was not “clear cut” (there were a number of possible solutions or the situation was ambiguous). How did you decide the best way forward?
 #Are Right, A Lot#Tell me about a time when you had to work with insufficient information or incomplete data.
-#Learn and Be Curious#Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
 #Learn and Be Curious#How do you find the time to stay inspired, acquire new knowledge, and/or innovate in your work?
 #Learn and Be Curious#How do you keep up with industry trends, what your competitors are doing, and best practices?
 #Learn and Be Curious#What have you learned that has helped you in your job?
@@ -168,7 +167,6 @@
 #Bias for Action#Tell me about a time when you were able to remove a serious roadblock/barrier preventing your team from making progress? How were you able to remove the barrier? What did you do? What was the outcome?
 #Bias for Action#Describe a situation when you took the initiative to correct a problem or a mistake rather than waiting for someone else to do it.
 #Bias for Action#Tell me about a time when you required some information from somebody else, but they weren't responsive. What did you do?
-#Frugality#Accomplish more with less. Constraints breed resourcefulness, self-sufficiency and invention. There are no extra points for growing headcount, budget size or fixed expense.
 #Frugality#Tell me about a time where you thought of a new way to save money or eliminate waste within your operation.
 #Frugality#Describe a time when you had to manage a budget (time/money/resources/etc.). Were you able to get more out of less?
 #Frugality#Tell me about a time when you had to work with limited time or resources.
@@ -195,7 +193,6 @@
 #Earn Trust#Describe a time when you had to speak up in a difficult or uncomfortable environment.
 #Earn Trust#What would you do to gain the trust of your team?
 #Earn Trust#Tell me about a time when you had to tell a harsh truth to someone.
-#Dive Deep#Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them. Give me an example of when you used data to make a decision/solve a problem.
 #Dive Deep#Tell me about an important analysis you did.
 #Dive Deep#Tell me a time you gave insights beyond the data.
 #Dive Deep#Give me a situation in which it took you asking why five times to get to the root cause.
