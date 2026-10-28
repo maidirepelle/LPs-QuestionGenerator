@@ -1,31 +1,59 @@
-# About LPQG (Leadership Principles Questions Generator)
-*LPQG* is a small Tornado application that presents you random and potential Amazon questions to simplify the interview preparation. This is the tool I'd liked to use when testing myself and preparing for my onsite interview (AKA *Loop*).
+# LPQG — Leadership Principles Questions Generator
 
-Thanks for inspiration and much part of the original [code](https://github.com/ngerakines/commitment) to the [WhatTheCommit project](http://whatthecommit.com/).
+**Practice Amazon Leadership Principles interview questions, one question at a time.**
 
-# APP
-Try yourself the [application](https://lp-questions-generator.herokuapp.com/)
+LPQG is a lightweight Flask application that randomly serves potential behavioral interview questions to help candidates prepare for Amazon interviews, including the onsite interview loop.
 
-# Wanna contribute to the questions?
-Feel free to do a PR with your suggestions.
-Format must be
-`#$LeadershipPrinciple#Question`
+I built this tool because I wanted a simple way to test myself and practice answering behavioral questions before my own interviews.
 
-Dummy Example: 
-`#Ownership#Tell me about a time when you demostrate ownership.`
+## Try it
 
-# Wanna contribute to the project?
-Hell yeah I need your skills. I'm no developer (you don't say?) and I think this project could be improved with new features (filter LPs not related your job description?)
+**[Launch LPQG](https://ps-question-generator-beta.vercel.app/)**
 
-# Disclaimer
-Clearly, **there is NO ufficial Amazon involvement** in this project.
-LPs questions have been gathered personally from public internet websites/reddit threads, aggregated and sometimes, rephrased.
-Consider your recruiter and generally the ufficial Amazon channels as your north-star for interview preparation.
-Drop me a [mail](mailto:github@pellegrino.dev) if this helped you even a little reaching your goal!
+## Contribute questions
 
-# License
+Have a useful question to share? Contributions are welcome!
 
-Copyright (c) 2022 Simone Pellegrino <simone@pellegrino.dev>
-Thanks to Nick Gerakines <nick@gerakines.net> for the main Commitment project
+Submit a pull request adding questions in the following format:
 
-This project and its contents are open source under the MIT license.
+```text
+#LeadershipPrinciple#Question
+```
+
+Example:
+
+```text
+#Ownership#Tell me about a time when you demonstrated ownership.
+```
+
+Please use the relevant Leadership Principle and keep questions clear, specific, and useful for interview practice.
+
+## Contribute to the project
+
+Have an idea or want to help? Pull requests and suggestions are very welcome.
+
+Ideas include:
+- Filtering questions by Leadership Principle.
+- Selecting principles relevant to a particular role.
+- Tracking practice sessions and previously answered questions.
+- Adding a way to bookmark challenging questions.
+
+## Disclaimer
+
+LPQG is an independent, community-built project. **It is not affiliated with, endorsed by, or officially associated with Amazon.**
+
+Questions have been collected from publicly available websites and Reddit discussions, then aggregated and sometimes rephrased. They are intended for practice and may not reflect actual Amazon interview questions.
+
+Use your recruiter and official Amazon resources as your primary sources for interview preparation.
+
+If this project helped you prepare for your interview, I'd love to hear about it: [github@pellegrino.dev](mailto:github@pellegrino.dev).
+
+## Credits
+
+This project was inspired by [Commitment](https://github.com/ngerakines/commitment) by Nick Gerakines and the idea behind [WhatTheCommit](http://whatthecommit.com/).
+
+## License
+
+Copyright (c) 2022 Simone Pellegrino
+
+This project is released under the MIT License. See [LICENSE](LICENSE) for details.
