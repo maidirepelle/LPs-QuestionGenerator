@@ -1,3 +1,10 @@
-Tornado==6.1
+[project]
+name = "lp-question-generator"
+version = "1.0.0"
+requires-python = ">=3.11"
+dependencies = [
+    "Tornado==6.1",
+]
+
 [tool.vercel]
 entrypoint = "lp_question_generator:application"
