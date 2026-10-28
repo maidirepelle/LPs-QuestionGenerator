@@ -1,0 +1,3 @@
+Tornado==6.1
+[tool.vercel]
+entrypoint = "lp_question_generator:application"
